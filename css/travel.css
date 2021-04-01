@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#img1{
+    height: 5%%;
+    width: 100%;
+}
+h2, {
+    color: ;
+    font-size: xx-large;
+
+}
+.paragraph1{
+    font-size: x-large;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    height: 60%;
+    width: fit-content;
+}
+body{
+   background-color: thistle;
+}
+p{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a, h3 {
+    font-size: x-large;
+}
+.imag2{
+    width: 800px;
+    height: 500px;
+}
