@@ -6,6 +6,10 @@ body {
     background-color: grey;
 }
 p {
-    font-size: large;
+    font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 500px;
+    width: 1400px;
 }
